@@ -1,0 +1,1 @@
+Hello everyone. I initially created this account for my Scripting Fundamentals course in my second year of Software Engineering. I am very excited to post my projects here and get involved in the community. 
